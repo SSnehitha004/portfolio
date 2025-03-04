@@ -39,12 +39,12 @@ const projectList = [
   {
     title: "GitHub Link",
     description: "Explore my coding adventures and collaborative projects on GitHub",
-    url: "https://github.com/student-ambassador",
+    url: "https://github.com/SSnehitha004",
   },
   {
     title: "My Resume",
     description: "Explore my professional journey and qualifications by downloading my resume here",
-    url: "https://drive.google.com/file/d/1YJfSjO1ygt8faFoYQigZgbfEJHaDPD5F/view?usp=drivesdk",
+    url: "https://drive.google.com/file/d/1u0S4ryXYg8CCJb1ZTRHnji4woY5kLp3T/view?usp=sharing",
   },
   {
     title: "LinkedIn Profile",
